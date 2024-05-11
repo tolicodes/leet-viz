@@ -7,7 +7,8 @@ const testCases = [
       ["i", "h", "k", "r"],
       ["i", "f", "l", "v"],
     ],
-    words: ["oath", "pea", "eat", "rain"],
+    // words: ["oath", "pea", "eat", "rain"],
+    words: ["car", "cat", "cart", "cash", "rat", "rag"],
     output: ["eat", "oath"], // The order in the output does not matter
   },
   {

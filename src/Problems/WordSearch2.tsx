@@ -1,7 +1,7 @@
 import testCases from "./wordSearch2Cases";
-import { Trie, dfs } from "../Structures/Trie";
-import Grid from '../Visuzalizations/Grid';
-import TrieVisualization from "../Visuzalizations/TrieTree";
+import { Trie, dfs } from "../DataStructures/Trie";
+import Grid from '../Viz/Grid';
+import TrieVisualization from "../Viz/TrieTree";
 
 
 /**

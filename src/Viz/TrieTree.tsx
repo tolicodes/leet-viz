@@ -1,6 +1,6 @@
 import React, { useEffect, useLayoutEffect, useState } from "react";
 import Tree from "react-d3-tree";
-import { Trie, TrieNode } from "../Structures/Trie"; // Make sure to adjust the import path as necessary
+import { Trie, TrieNode } from "../DataStructures/Trie"; // Make sure to adjust the import path as necessary
 
 // Define the structure of a tree node for react-d3-tree
 interface TreeNode {
