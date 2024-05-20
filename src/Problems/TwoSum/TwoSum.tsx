@@ -6,7 +6,7 @@ import MapViz from '../../Viz/MapViz';
 import ArrayViz from '../../Viz/ArrayViz';
 import CodeDisplay from '../../Common/CodeDisplay';
 
-const NUMS = [2, 7, 11, 15];
+const NUMS = [2, 21, 54, 7,  11, 15];
 const TARGET = 9;
 
 const WordSearch: React.FC = () => {

@@ -13,7 +13,7 @@ interface InteractionControllerProps {
 
 const InteractionController: React.FC<InteractionControllerProps> = ({ nums, target, setHighlightedIndices, setResultIndices, setMapState, setCurrentLine }) => {
     const awaitAndSetLine = async (line: number) => {
-        await new Promise(resolve => setTimeout(resolve, 2000)); // Delay for visualization
+        await new Promise(resolve => setTimeout(resolve, 500)); // Delay for visualization
         setCurrentLine(line);
     }
 

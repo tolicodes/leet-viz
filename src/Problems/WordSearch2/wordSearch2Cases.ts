@@ -2,7 +2,7 @@ const testCases = [
   {
     name: "Basic Functionality",
     board: [
-      ["o", "a", "a", "n"],
+      ["c", "a", "r", "n"],
       ["e", "t", "a", "e"],
       ["i", "h", "k", "r"],
       ["i", "f", "l", "v"],
